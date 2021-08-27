@@ -1,0 +1,40 @@
+body {
+	font-family: helvetica;
+	margin: 0;
+	padding: 0;
+}
+
+.photo {
+	height: 100vh;
+	background-image: url(http://andrewblack.site/cuted_karabest.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	margin: 0;
+	padding: 0;
+}
+
+.reg {
+	background-color: #006bde;
+	color: white;
+	text-decoration: none;
+	width: 324px;
+	height: 56px;
+	display: inline-block;
+	font-size: 26px;
+	padding: 0;
+	text-align: center;
+	margin-left: 79%;
+	border-radius: 6px;
+    border-image: initial;
+}
+
+.text {
+	margin: auto;
+	display: block;
+	margin: 12px;
+}
+
+.header {
+	background-color: #006bde;
+	height: 28px;
+}
